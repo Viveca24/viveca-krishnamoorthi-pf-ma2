@@ -1,2 +1,3 @@
-# viveca-krishnamoorthi-pf-ma3
-Programming Foundation - MA2
+# viveca-krishnamoorthi-pf-ma2
+Programming Foundation -  Module Assignment 2
+
